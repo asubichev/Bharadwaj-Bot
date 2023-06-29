@@ -1,1 +1,0 @@
-var token= {token:"MTEyMzc2MjUzMjA3OTg5NDYyOA.GoWxjl.XKFEvu5FtIsD_6HUyqs0RfcysVHCaN0B5h4is4"}
