@@ -1,7 +1,7 @@
 require('dotenv').config(); //initialize dotenv
 const Discord = require('discord.js'); //import discord.js
 
-const CLIENT_TOKEN="MTEyMzc2MjUzMjA3OTg5NDYyOA.GfKmqw.tCpH__bmqKV2xFT8bT0HRCP1s3OplToREbhmy4"
+const CLIENT_TOKEN=token.token;
 
 const client = new Discord.Client(); //create new client
 
